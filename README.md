@@ -25,22 +25,41 @@ The repository is organized as follows:
 
 DSA/
 ├── README.md
+
 ├── findmax.java
+
 ├── linearSearch.java
+
 ├── linearSearch2.java
+
 ├── methods.java
+
 ├── prg1.java
+
 ├── prg2.java
+
 ├── prg3.java
+
 ├── prg4.java
+
 ├── prg5.java
+
 ├── prg6.java
+
+
+
 ├── prg7.java
+
 ├── prg8.java
+
 ├── prg9.java
+
 ├── prg10.java
+
 ├── prg11.java
+
 ├── prg12.java
+
 ├── prob1.java
 
 
@@ -83,11 +102,12 @@ Interview Preparation: Build a solid foundation to tackle technical interviews w
 
 Portfolio Development: Showcase practical coding abilities to potential employers and collaborators.
 
-## 📬 Contact Information
-For inquiries, collaborations, or discussions:
-- 🔗 [LinkedIn](https://www.linkedin.com/in/santhiya-prakash-87449425a/)
-- 💻 [GitHub](https://github.com/Santhiyaprakash)
-- 🧠 [LeetCode](https://leetcode.com/u/santhiya04/)
+## 📬 Connect with Me
+🔗 LinkedIn - https://www.linkedin.com/in/santhiya-prakash-87449425a/
+
+💻 GitHub - https://github.com/santhu643
+
+🧠 LeetCode - https://leetcode.com/u/santhiyaprakash/
 
 Feel free to reach out for any questions or opportunities!
 
