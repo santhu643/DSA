@@ -15,7 +15,7 @@ Welcome to my DSA practice repository! This collection showcases my journey in m
   - Control Structures (Loops, Conditionals)
 - **Development Tools**:
   - Java Development Kit (JDK)
-  - Integrated Development Environment (IDE): [Specify IDE, e.g., IntelliJ IDEA, Eclipse]
+  - Integrated Development Environment (IDE): VS Code
 
 ---
 
@@ -62,8 +62,7 @@ Each `.java` file corresponds to a specific DSA problem or concept, complete wit
 
 1. **Clone the Repository**:
    ```bash
-   
- ##  git clone https://github.com/santhu643/DSA.git
+    git clone https://github.com/santhu643/DSA.git
  
 Navigate to the Directory:
 cd DSA
