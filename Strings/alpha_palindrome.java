@@ -7,7 +7,7 @@ public class alpha_palindrome{
     public static void rev(String str){
         StringBuilder temp = new StringBuilder();
         int len = str.length();
-        for(int i=0;i<len-1;i++){
+        for(int i=0;i<len;i++){
             if((str.charAt(i)>='a' && str.charAt(i)<='z') || (str.charAt(i)>='A' && str.charAt(i)<='Z') || (str.charAt(i)>= '0' && str.charAt(i)<='9')){
                 temp.append(Character.toLowerCase(str.charAt(i)));
             }
