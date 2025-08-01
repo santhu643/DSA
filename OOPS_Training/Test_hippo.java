@@ -37,4 +37,4 @@ class dhaksu{
     public void speak(String n,int age){
         System.out.println("I am dhaksu and i am " + n + " i am "+age+ " old");
     }
-}
+} 
