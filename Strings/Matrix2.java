@@ -20,14 +20,11 @@ public class Matrix2{
 
         // int j=0;
         // for(int i=0;i<arr.length;i+=arr.length-1){
-            
         //         temp = arr[i][j];
         //         arr[i][j]=arr[i][j];
         //         arr[i][j]=temp;
-            
         //     j++;
         // }
-
 
         for(int i=0;i<arr.length;i++){
             int left=0,right=arr.length-1;
@@ -46,6 +43,5 @@ public class Matrix2{
             }
             System.out.println();
         }
-
     }
 }
