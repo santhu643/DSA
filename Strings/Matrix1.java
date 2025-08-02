@@ -1,7 +1,7 @@
 public class Matrix1{
     public static void main(String[] args){
         int [][] arr = {
-            {1,2,3},        /* 7 4 1 */            //02 10 00
+            {1,2,3},        /* 7 4 1 */            //20 10 00
             {4,5,6},        /* 8 5 2 */            //21 11 21
             {7,8,9}         /* 9 6 3 */            //00 10 20
         };
