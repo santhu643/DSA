@@ -12,6 +12,9 @@ public class cow{
 
 class TestCow{
     String name;
+    public TestCow(){
+        this.name = name;
+    }
     public void moo(){
         System.out.println("I am cow and I am moo mooing "+name);
     }
