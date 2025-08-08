@@ -1,7 +1,7 @@
 import java.util.*;
 public class cyclicsort{
     public static void main (String []args){
-        int[] arr = {5,3,10,25,2,4,1};
+        int[] arr = {2,3,6,4,5,1};
         cycle(arr);
         System.out.print(Arrays.toString(arr));
     }
