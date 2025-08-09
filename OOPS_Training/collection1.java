@@ -28,16 +28,6 @@ public class collection1 {
         
         list.retainAll(Arrays.asList("Apple", "Cherry"));
         
-
-
-
-
-
-
-
-
-
-        
         list.clear();
         
         System.out.println(list.isEmpty());
