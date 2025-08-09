@@ -28,6 +28,11 @@ public class collection1 {
         
         list.retainAll(Arrays.asList("Apple", "Cherry"));
         
+        Object[] arr = list.toArray();
+        for (Object o : arr) {
+            System.out.println(o);
+        }
+        
         list.clear();
         
         System.out.println(list.isEmpty());
